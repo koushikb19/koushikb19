@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @koushikb19
+- 👋 Hi, I'm Koushik
 - 👀 I’m interested in Tech
 - 🌱 I’m currently learning React... Node... whatever I find interesting
 - 💞️ I’m looking to collaborate on Full Stack Projects
